@@ -19,5 +19,4 @@ MainWindow::~MainWindow()
 //ckjdncydubcdouycgbwdncih
 
 
-
-//hgdqdyhgdi78iudw78dyuw;7ld8yw uhd76sdgbbsgo67
+// manaswini good friend of mine
